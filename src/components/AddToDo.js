@@ -26,7 +26,7 @@ export default function AddTodo() {
         />
       </div>
       <div className="btn_container">
-        <button>Click To Add 😇</button>
+        <button>Click To Add </button>
       </div>
     </form>
   );
